@@ -44,7 +44,6 @@
 
 ## ✉️ Connect with me:
 
- <a href="https://github.com/alvin-joseph" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="GitHub" width="35px" height="20" style="vertical-align:top; margin:4x"> </a>
  <a href="https://www.linkedin.com/in/alvin-joseph031/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="35px" height="20" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:alvinjoseph031@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="mail"  width="35px" height="20" style="vertical-align:top; margin:4px"></a>
 
