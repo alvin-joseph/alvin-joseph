@@ -36,9 +36,7 @@
 
 ## ✉️ Connect with me:
 
- [<img align="left" style="margin-left: 1.5rem" alt="Alvin | LinkedIn" width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
- <a href="mailto:alvinjoseph031@gmail.com"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail"  width="35px" style="vertical-align:top; margin:4px"></a>
- 
- [linkedin]: https://www.linkedin.com/in/alvin-joseph031/
+ <a href="https://www.linkedin.com/in/alvin-joseph031/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/e0c08558d85cb4365c3a865fde306916e58c542e/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="35px" height="40" style="vertical-align:top; margin:4px"></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:alvinjoseph031@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png" alt="gmail" margin="4px" height="40" width="35px" style="vertical-align:top; margin:4px"></a>
 
 <br />
