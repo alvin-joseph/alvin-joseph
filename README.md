@@ -2,6 +2,9 @@
 
 ### Full-Stack Web Developer / Software Engineer
 
+
+Check out my [Portfolio](http://www.alvintjoseph.com)
+
 --- 
 
 <br />
